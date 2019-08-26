@@ -1,4 +1,5 @@
 # Jitsi Meet SDK for Android
+需使用linux环境编译
 
 ## Sample applications using the SDK
 
